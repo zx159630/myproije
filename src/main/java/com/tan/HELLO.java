@@ -8,6 +8,13 @@ public class HELLO {
 //    new Person().Hello();
     Person P = new Person();
     P.Hello();
+    int age = 19;
+    char c = '我';
+    byte b = 120;
+    float weight = 66.5f;
+    boolean adult = true;
+    boolean enroll = false;
+    String name = "Tom";
     }
 
 }
